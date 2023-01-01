@@ -1,0 +1,16 @@
+The first step:
+Attach the sensor to the servo motor.
+
+The second step :
+Make the connection as in the photo.
+
+The third step:
+Upload the code to the arduino.
+
+The fourth step:
+Download Processing
+https://processing.org/download
+
+The fifth step:
+Upload processing code to processing app.
+(Don't forget to change com number to processing app!!!! Line 19!!!!)
